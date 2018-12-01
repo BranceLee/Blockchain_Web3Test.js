@@ -1,0 +1,9 @@
+{
+  "name": "web3Test",
+  "version": "1.0",
+  "description": "getting start to use web3.js",
+  "main": "index.js",
+  "repository": "https://github.com/BranceLee/Blockchain_Web3Test.js.git",
+  "author": "Lee",
+  "license": "MIT"
+}
